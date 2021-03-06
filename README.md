@@ -11,7 +11,7 @@ I am a hardworking,detail-oriented college Student pursuing a master's in comput
 <br />
 📈 My GitHub Stats
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishektanwer2&show_icons=true&theme=tokyonight" alt="abhishektanwer2" />
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhishektanwer2&show_icons=true&theme=gradient" alt="abhishektanwer2" />
 
 
 
