@@ -6,12 +6,14 @@
 
 <img align="right" src="https://github.com/abhishektanwer2/abhishektanwer2/blob/master/images/myAvatar.png" width="200" height="200" style="border-radius:50%">
 I am a hardworking,detail-oriented college Student pursuing a master's in computer science from the University of North Carolina at Charlotte with an interest in Software Development. I have 3 years of work experience in Application development. Coded Web applications to convert raw data from the design engine to easily understandable graphical formats. Ensured all solutions worked efficiently by installing, configuring, and testing software applications and database technologies.
-<br />
-
-<br />
-
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
 📈 My GitHub Stats
-<br />
-<br />
+<br/>
+<br/>
 <span><img src="https://github-readme-stats.vercel.app/api?username=abhishektanwer2&show_icons=true&theme=dark" alt="abhishektanwer2" /></span>
 <span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektanwer2&show_icons=true&theme=dark&layout=compact"/></span>
