@@ -15,5 +15,5 @@ I am a hardworking,detail-oriented college Student pursuing a master's in comput
 📈 My GitHub Stats
 <br/>
 <br/>
-<span><img align ="left" src="https://github-readme-stats.vercel.app/api?username=abhishektanwer2&show_icons=true&theme=dark" alt="abhishektanwer2" /></span>
-<span><img align ="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektanwer2&show_icons=true&theme=dark&layout=compact"/></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=abhishektanwer2&show_icons=true&theme=dark" alt="abhishektanwer2" /></span>
+<span><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhishektanwer2&show_icons=true&theme=dark&layout=compact"/></span>
