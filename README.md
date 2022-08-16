@@ -5,7 +5,7 @@
 ### LinkedIn :<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="vertical" data-theme="dark" datavanity="abhishektanwer"><a class="LI-simple-link" href='https://www.linkedin.com/in/abhishektanwer?trk=profile-badge'>Abhishek Tanwer</a></div></a>
 
 <img align="right" src="https://github.com/abhishektanwer2/abhishektanwer2/blob/master/images/myAvatar.png" width="200" height="200" style="border-radius:50%">
-<p>I am a hardworking,detail-oriented recently graduated college Student working as Associate Software Engineer at Schweitzer Engineering Laboratories.I  also have 3 years of work experience in Application development. Coded Web applications to convert raw data from the design engine to easily understandable graphical formats. Ensured all solutions worked efficiently by installing, configuring, and testing software applications and database technologies.</p>
+<p>I am a hardworking,detail-oriented recently graduated college Student working as Software Engineer at Schweitzer Engineering Laboratories.I  also have 3 years of work experience in Application development. Coded Web applications to convert raw data from the design engine to easily understandable graphical formats. Ensured all solutions worked efficiently by installing, configuring, and testing software applications and database technologies.</p>
 <br/>
 Technologies and Languages that I use:
 <br/>
